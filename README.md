@@ -102,17 +102,17 @@ AI가 학습에 최적화된 형태로 콘텐츠를 재구성하고 학습 진�
 ##  4. 워크플로우
 
 ### 1️⃣ 기술블로그 콘텐츠 요약
-![](/images/blog_workflow.png)
+![](./images/blog_workflow.png)
 
 ### 2️⃣ 핵심 개념 기반 실습 문제 자동 생성
-![](/images/makeproblem_workflow.png)
+![](./images/makeproblem_workflow.png)
 
 ### 3️⃣ 코드 리팩토링
-![](/images/refactoring_workflow.png)
+![](./images/refactoring_workflow.png)
 
 
 ### 4️⃣ 처리 상태 기반 자동 알림
-![](/images/urging_workflow.png)
+![](./images/urging_workflow.png)
 
 
 
