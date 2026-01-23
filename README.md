@@ -95,6 +95,8 @@ AI가 학습에 최적화된 형태로 콘텐츠를 재구성하고 학습 진�
 
 ### 1️⃣ 기술블로그 콘텐츠 요약
 ![](./images/blog_workflow.png)
+![](./images/blog_1.png)
+![](./images/blog_2.png)
 
 ### 2️⃣ 핵심 개념 기반 실습 문제 자동 생성
 ![](./images/makeproblem_workflow.png)
