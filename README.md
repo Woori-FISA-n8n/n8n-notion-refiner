@@ -98,14 +98,21 @@ AI가 학습에 최적화된 형태로 콘텐츠를 재구성하고 학습 진�
 
 ### 2️⃣ 핵심 개념 기반 실습 문제 자동 생성
 ![](./images/makeproblem_workflow.png)
+![](./images/MakeProblem_capture_1.png)
+![](./images/MakeProblem_capture_2.png)
+![](./images/MakeProblem_capture_3.png)
+![](./images/MakeProblem_capture_4.png)
 
 ### 3️⃣ 코드 리팩토링
 ![](./images/refactoring_workflow.png)
+![](./images/Refactoring_capture_1.png)
+![](./images/Refactoring_capture_2.png)
 
 
 ### 4️⃣ 처리 상태 기반 자동 알림
 ![](./images/urging_workflow.png)
-
+![](./images/Urging_capture_1.png)
+![](./images/urging_capture_2.png)
 
 
 ##  5. 트러블슈팅
